@@ -1,0 +1,8 @@
+ 1. Cảm biến áp suất MPS20N0040D DIP6 x1
+ 2. IC khuếch đại đo (instrumentation amplifier) AD620
+ 3. Opamp Lm358 x2
+ 4.LCD 20x4
+ 5. VXL stm32f407 discovery
+ 6. điện trở và tụ các loại
+ 7. nguồn tổ ong 5VDC
+ 8.Ruột, vòng bít, bao vải, van, quả bóp máy huyết áp cơ ALPK2
